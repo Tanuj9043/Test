@@ -2,7 +2,7 @@
 
 ### A repository to learn ###
 
-> This repository is for the students to leasn and apply github
+> This repository is for the students to leasn and apply github.
 
 - Main
 
